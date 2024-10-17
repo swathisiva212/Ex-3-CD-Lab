@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9cdb25fe-8040-4f8f-af38-1d6e9ebbd242)# Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
+# Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 # Date:17/10/24
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
@@ -13,9 +13,6 @@ To write a yacc program to recognize a valid arithmetic expression that uses ope
 8.	Enter an arithmetic expression as input and the tokens are identified as output.
 # PROGRAM
 ```
-NAME:N.NAVYA SREE
-REGISTER NO:212223040138
-
 Program name:ex3.l
 %{
 /* This LEX program returns the tokens for the expression */
